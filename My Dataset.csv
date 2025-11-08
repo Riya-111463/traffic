@@ -1,0 +1,21 @@
+Timestamp,IR Presence (Lane 1–4),Vehicle Count,Avg Speed (km/h),Vehicle Types Detected,Vehicle Density (%),Traffic Congestion Level,is_festival,is_rainy,event_type,season
+08:00:00,"[0, 0, 1, 0]",97,31.2,"10 Bikes, 30 Car, 5 Ambulances, 2 Patrol, 53 Trucks",40,Low,0,0,None,Summer
+08:01:00,"[0, 0, 1, 1]",126,48.5,"32 Cars, 94 Bikes, ",57,Medium,0,0,None ,Summer
+08:02:00,"[1, 0, 0, 0]",61,42,"20 Trucks, 15 Patrol, 26 Cars",82,High,0,1,None ,Monsoon
+08:03:00,"[1, 0, 0, 0]",170,38,"50 Cars, 71 Patrol, 49 Trucks",75,High,0,1,None,Monsoon
+08:04:00,"[1, 0, 0, 0]",180,24.7,"17 Patrol, 93 Cars, 25 Bikes, 45 Trucks",90,High,0,1,None,Monsoon
+08:05:00,"[1, 1, 0, 1]",159,24.7,"50 Cars, 34 Ambulances, ",30,Medium,0,0,None,Summer
+08:06:00,"[0, 0, 1, 0]",175,21.7,"28 Trucks, 57 Cars, 88Bikes",89,High,0,1,None,Monsoon
+08:07:00,"[1, 0, 0, 1]",145,46,"97 Vans, 69 Cars, 30 Trucks, 90 Vans",73,High,0,0,None,Summer
+08:08:00,"[0, 1, 1, 1]",79,38,"91 Trucks, 13 Ambulances, ",43,Low,0,0,None,Summer
+08:09:00,"[0, 1, 0, 1]",93,41.2,"38 Trucks, 62 Vans",59,Medium,0,0,None,Summer
+10:00:00,"[1, 0, 1, 1]",106,44.2,"76 Cars, 30 Trucks",77,High,1,0,Religious Procession,Winter
+14:30:00,"[1, 0, 0, 0]",150,49.7,"50 Ambulances, 49 Vans, 70 Fire Trucks, 77 Trucks",40,Medium,0,0,None,Summer
+18:00:00,"[0, 0, 0, 0]",143,30.7,"19 Ambulances, 35 Trucks, 61 Vans, 26 Ambulances",76,High,1,0,Sports Final,Autumn
+19:30:00,"[0, 0, 1, 0]",195,29.7,"32 Patrol, 17 Fire Trucks, 24 Cars",55,Medium,0,1,None,Monsoon
+20:15:00,"[0, 1, 1, 1]",150,46.3,"59 Trucks, 91 Bikes",80,High,1,0,Wedding Convoy,Winter
+22:00:00,"[1, 1, 1, 1]",87,20.4,"83 Patrol, 48 Vans, 70 Trucks",41,Low,0,1,None,Monsoon
+06:30:00,"[0, 1, 0, 1]",133,23.8,"76 Trucks, 24 Cars, 33 Ambulances",40,Low,1,0,Independence Day Parade,Summer
+12:00:00,"[1, 0, 0, 0]",109,21.6,"100 Trucks, 46 Trucks",90,High,1,1,Diwali Shopping Rush,Monsoon
+16:45:00,"[0, 1, 0, 0]",197,42.8,"34 Patrol, 49 Cars, ",74,High,0,0,Protest,Autumn
+16:45:00,"[0, 1, 0, 0]",105,41.7,"97 Bikes, 31 Cars, 13 Ambulances",45,Medium,0,0,None,Winter
